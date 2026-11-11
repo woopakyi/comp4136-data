@@ -1,0 +1,46 @@
+{
+  "photo": "IMG_0123.HEIC",
+  "date": "2026-07-28",
+  "store_name": "吉野家",
+  "items": [
+    {
+      "name": "(會員優惠)$30 關東煮湯烏冬配小食",
+      "unit_cost": 30.00,
+      "quantity": 1,
+      "line_total": 30.00
+    },
+    {
+      "name": "日式雞肉炸餃子(3隻)(跟餐)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "茶碗蒸(追加)",
+      "unit_cost": 8.00,
+      "quantity": 1,
+      "line_total": 8.00
+    },
+    {
+      "name": "面豉湯(跟餐)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    }
+  ],
+  "calculated_subtotal": 38.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 38.00,
+  "total_round": 0,
+  "final_total": 38.00
+}

@@ -1,0 +1,40 @@
+{
+  "photo": "20260807_203823.jpg",
+  "date": "2026-08-01",
+  "store_name": "MUJI",
+  "items": [
+    {
+      "name": "PP Dust Bin with Bag Stopper",
+      "unit_cost": 48.00,
+      "quantity": 1,
+      "line_total": 48.00
+    },
+    {
+      "name": "20S Steel Divider Board M",
+      "unit_cost": 28.00,
+      "quantity": 1,
+      "line_total": 28.00
+    },
+    {
+      "name": "20S Steel Divider Board L",
+      "unit_cost": 28.00,
+      "quantity": 1,
+      "line_total": 28.00
+    }
+  ],
+  "calculated_subtotal": 104.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 104.00,
+  "total_round": null,
+  "final_total": 104.00
+}

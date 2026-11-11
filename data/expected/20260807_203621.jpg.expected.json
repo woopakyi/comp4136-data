@@ -1,0 +1,58 @@
+{
+  "photo": "20260807_203621.jpg",
+  "date": "2026-08-05",
+  "store_name": "Domon",
+  "items": [
+    {
+      "name": "A.士門叉燒拉麵(味噌)",
+      "unit_cost": 62.00,
+      "quantity": 1,
+      "line_total": 62.00
+    },
+    {
+      "name": "(餐)南瓜薯餅(1個)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "A.土門叉燒拉麵(辛味噌)",
+      "unit_cost": 62.00,
+      "quantity": 1,
+      "line_total": 62.00
+    },
+    {
+      "name": "(餐)唐揚雞(3件)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "J.濃厚醬燒牛肉定食",
+      "unit_cost": 58.00,
+      "quantity": 1,
+      "line_total": 58.00
+    },
+        {
+      "name": "檸檬蜜(熱)",
+      "unit_cost": 3.00,
+      "quantity": 1,
+      "line_total": 3.00
+    }
+  ],
+  "calculated_subtotal": 185.00,
+
+  "service_charge_rate": 0.10,
+  "calculated_service_charge_amount": 18.50,
+  "service_charge_round": null,
+  "final_service_charge_amount": 18.50,
+
+  "discount_rate": 0.85,
+  "calculated_discount_amount": 27.75,
+  "discount_round": 1,
+  "final_discount_amount": 27.80,
+  
+  "calculated_total": 175.70,
+  "total_round": 0,
+  "final_total": 176.00
+}

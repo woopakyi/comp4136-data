@@ -1,0 +1,28 @@
+{
+  "photo": "20260719_234243.jpg",
+  "date": "2026-07-06",
+  "store_name": "mannings",
+  "items": [
+    {
+      "name": "樂敦妮婕隱形眼鏡潤濕液7毫升",
+      "unit_cost": 55.90,
+      "quantity": 2,
+      "line_total": 111.80
+    }
+  ],
+  "calculated_subtotal": 111.80,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": 0.85,
+  "calculated_discount_amount": 16.77,
+  "discount_round": null,
+  "final_discount_amount": 16.77,
+ 
+  "calculated_total": 95.03,
+  "total_round": 0,
+  "final_total": 95.00
+}

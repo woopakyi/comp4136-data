@@ -1,0 +1,59 @@
+{
+  "photo": "IMG_0063.HEIC",
+  "date": "2026-07-13",
+  "store_name": "(西環)書湘門第",
+  "items": [
+    {
+      "name": "F香乾炒肉木桶飯",
+      "unit_cost": 62.00,
+      "quantity": 1,
+      "line_total": 62.00
+    },
+    {
+      "name": "檸檬茶",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "A外婆菜炒蛋木桶飯",
+      "unit_cost": 52.00,
+      "quantity": 1,
+      "line_total": 52.00
+    },
+    {
+      "name": "菊花茶",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "C四季豆木桶飯",
+      "unit_cost": 58.00,
+      "quantity": 1,
+      "line_total": 58.00
+    },
+    {
+      "name": "菊花茶",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    }
+  ],
+  "calculated_subtotal": 172.00,
+
+  "service_charge_rate": 0.10,
+  "calculated_service_charge_amount": 17.20,
+  "service_charge_round": null,
+  "final_service_charge_amount": 17.20,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+
+  "calculated_total": 189.20,
+  "total_round": 0,
+  "final_total": 189.00
+}

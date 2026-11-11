@@ -1,0 +1,40 @@
+{
+  "photo": "IMG_0014.HEIC",
+  "date": "2026-06-18",
+  "store_name": "HKU CYM CANTEEN",
+  "items": [
+    {
+      "name": "麻油雞豬腩片濃湯麵",
+      "unit_cost": 42.00,
+      "quantity": 1,
+      "line_total": 42.00
+    },
+    {
+      "name": "餐大凍檸檬茶",
+      "unit_cost": 6.00,
+      "quantity": 1,
+      "line_total": 6.00
+    },
+    {
+      "name": "堂食",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    }
+  ],
+  "calculated_subtotal": 48.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 48.00,
+  "total_round": null,
+  "final_total": 48.00
+}

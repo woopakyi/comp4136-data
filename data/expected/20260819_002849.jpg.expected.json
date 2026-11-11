@@ -1,0 +1,29 @@
+{
+  "photo": "20260819_002849.jpg",
+  "date": "2026-08-13",
+  "store_name": "759阿信屋",
+  "items": [
+    {
+      "name": "大和豆漿(原味) 408ml 件",
+      "unit_cost": 5.20,
+      "quantity": 3,
+      "line_total": 15.60
+    }
+  ],
+  "calculated_subtotal": 15.60,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 15.60,
+  "total_round": null,
+  "final_total": 15.60
+}

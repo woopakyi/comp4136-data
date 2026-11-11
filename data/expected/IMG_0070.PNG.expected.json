@@ -1,0 +1,35 @@
+{
+  "photo": "IMG_0070.PNG",
+  "date": null,
+  "store_name": "now.order.place",
+  "items": [
+    {
+      "name": "天婦羅炸蝦・豬骨湯拉麵",
+      "unit_cost": 46.00,
+      "quantity": 1,
+      "line_total": 46.00
+    },
+    {
+      "name": "牛奶布甸",
+      "unit_cost": 8.50,
+      "quantity": 1,
+      "line_total": 8.50
+    }
+  ],
+  "calculated_subtotal": 54.50,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+
+  "calculated_total": 54.50,
+  "total_round": null,
+  "final_total": 54.50
+}

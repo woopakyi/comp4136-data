@@ -1,0 +1,70 @@
+{
+  "photo": "IMG_0080.HEIC",
+  "date": "2026-07-17",
+  "store_name": "Cafe 1951",
+  "items": [
+    {
+      "name": "Upgrade Salad Bar",
+      "unit_cost": 48.00,
+      "quantity": 2,
+      "line_total": 96.00
+    },
+    {
+      "name": "焗肉醬牛肉飯",
+      "unit_cost": 168.00,
+      "quantity": 1,
+      "line_total": 168.00
+    },
+    {
+      "name": "Duck Leg Confit",
+      "unit_cost": 168.00,
+      "quantity": 1,
+      "line_total": 168.00
+    },
+    {
+      "name": "海南雞飯",
+      "unit_cost": 135.00,
+      "quantity": 1,
+      "line_total": 135.00
+    },
+    {
+      "name": "羅宋湯(餐)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "Flat White(Set)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "Latte(Set)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "Hot Chocolate(Set)",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    }
+  ],
+  "calculated_subtotal": 567.00,
+
+  "service_charge_rate": 0.10,
+  "calculated_service_charge_amount": 56.70,
+  "service_charge_round": null,
+  "final_service_charge_amount": 56.70,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 623.70,
+  "total_round": null,
+  "final_total": 623.70
+}

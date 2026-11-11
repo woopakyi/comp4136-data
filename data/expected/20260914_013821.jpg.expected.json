@@ -1,0 +1,34 @@
+{
+  "photo": "20260714_013821.jpg",
+  "date": "2026-09-10",
+  "store_name": "UNIQLO",
+  "items": [
+    {
+      "name": "W's smart culotte",
+      "unit_cost": 199.00,
+      "quantity": 1,
+      "line_total": 199.00
+    },
+    {
+      "name": "AIRism cotton T",
+      "unit_cost": 149.00,
+      "quantity": 1,
+      "line_total": 149.00
+    }
+  ],
+  "calculated_subtotal": 348.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+  
+  "calculated_total": 348.00,
+  "total_round": null,
+  "final_total": 348.00
+}

@@ -1,0 +1,28 @@
+{
+  "photo": "20260726_205544.jpg",
+  "date": "2026-07-25",
+  "store_name": "Sasa (Nathan 88)",
+  "items": [
+    {
+      "name": "KAI藍色組合式眼睫捲",
+      "unit_cost": 33.30,
+      "quantity": 1,
+      "line_total": 33.30
+    }
+  ],
+  "calculated_subtotal": 33.30,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 33.30,
+  "total_round": null,
+  "final_total": 33.30
+}

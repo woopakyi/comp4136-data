@@ -1,0 +1,58 @@
+{
+  "photo": "20260720_042827.jpg",
+  "date": "2026-06-30",
+  "store_name": "Ma Thai",
+  "items": [
+    {
+      "name": "L10.馬來肉骨茶配白飯",
+      "unit_cost": 68.00,
+      "quantity": 1,
+      "line_total": 68.00
+    },
+    {
+      "name": "901.凍泰式檸檬茶 少甜",
+      "unit_cost": 3.00,
+      "quantity": 1,
+      "line_total": 3.00
+    },
+    {
+      "name": "L12.馬來椰漿飯 雞扒",
+      "unit_cost": 72.00,
+      "quantity": 1,
+      "line_total": 72.00
+    },
+    {
+      "name": "901.凍泰式檸檬茶 少甜 少冰",
+      "unit_cost": 3.00,
+      "quantity": 1,
+      "line_total": 3.00
+    },
+    {
+      "name": "鮮嫩雞扒飯配金磚蛋",
+      "unit_cost": 68.00,
+      "quantity": 1,
+      "line_total": 68.00
+    },
+    {
+      "name": "901.凍泰式檸檬茶 少甜 少冰",
+      "unit_cost": 3.00,
+      "quantity": 1,
+      "line_total": 3.00
+    }
+  ],
+  "calculated_subtotal": 217.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": 0.85,
+  "calculated_discount_amount": 32.55,
+  "discount_round": null,
+  "final_discount_amount": 32.55,
+
+  "calculated_total": 184.45,
+  "total_round": 0,
+  "final_total": 184.00
+}

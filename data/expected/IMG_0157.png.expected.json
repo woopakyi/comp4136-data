@@ -1,0 +1,34 @@
+{
+  "photo": "IMG_0157.png",
+  "date": "2026-09-10",
+  "store_name": "Itamomo",
+  "items": [
+    {
+      "name": "(學)香煎牛扒腸仔飯配蒜蓉汁",
+      "unit_cost": 49.00,
+      "quantity": 1,
+      "line_total": 49.00
+    },
+    {
+      "name": "紅石榴爆珠冰茶",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    }
+  ],
+  "calculated_subtotal": 49.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+  
+  "calculated_total": 49.00,
+  "total_round": null,
+  "final_total": 49.00
+}

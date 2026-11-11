@@ -1,0 +1,28 @@
+{
+  "photo": "IMG_0092.HEIC",
+  "date": "2026-07-24",
+  "store_name": null,
+  "items": [
+    {
+      "name": "牛腹扒",
+      "unit_cost": null,
+      "quantity": 1,
+      "line_total": null
+    }
+  ],
+  "calculated_subtotal": null,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": null,
+  "total_round": null,
+  "final_total": null
+}

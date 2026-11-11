@@ -1,0 +1,53 @@
+{
+  "photo": "20260807_203954.jpg",
+  "date": "2026-08-01",
+  "store_name": "IKEA",
+  "items": [
+    {
+      "name": "燒澳洲肉眼扒配薯菜及燒汁",
+      "unit_cost": 69.00,
+      "quantity": 1,
+      "line_total": 69.00
+    },
+    {
+      "name": "香茅雞扒配椰漿飯",
+      "unit_cost": 49.00,
+      "quantity": 1,
+      "line_total": 49.00
+    },
+    {
+      "name": "汽水/果味飲料",
+      "unit_cost": 9.00,
+      "quantity": 1,
+      "line_total": 9.00
+    },
+    {
+      "name": "雞軟骨雞肉丸串",
+      "unit_cost": 13.00,
+      "quantity": 1,
+      "line_total": 13.00
+    },
+    {
+      "name": "牛奶新地杯(薑餅)100毫升",
+      "unit_cost": 16.00,
+      "quantity": 1,
+      "line_total": 16.00
+    }
+  ],
+  "calculated_subtotal": 156.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 156.00,
+  "total_round": null,
+  "final_total": 156.00
+}

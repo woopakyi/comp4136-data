@@ -1,0 +1,28 @@
+{
+  "photo": "20260807_203543.jpg",
+  "date": "2026-08-04",
+  "store_name": "LOG-ON",
+  "items": [
+    {
+      "name": "HELLOLULU JAM",
+      "unit_cost": 628.00,
+      "quantity": 1,
+      "line_total": 628.00
+    }
+  ],
+  "calculated_subtotal": 628.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 628.00,
+  "total_round": null,
+  "final_total": 628.00
+}

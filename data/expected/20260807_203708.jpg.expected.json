@@ -1,0 +1,76 @@
+{
+  "photo": "20260807_203708.jpg",
+  "date": "2026-08-04",
+  "store_name": "Saizeriya",
+  "items": [
+    {
+      "name": "使用二維碼自助點餐",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "貝柱煙三文魚多利亞",
+      "unit_cost": 35.00,
+      "quantity": 1,
+      "line_total": 35.00
+    },
+    {
+      "name": "歐陸風烤焗香腸",
+      "unit_cost": 20.00,
+      "quantity": 1,
+      "line_total": 20.00
+    },
+    {
+      "name": "燈籠腸(意式肉腸)(4)片)+佛卡夏",
+      "unit_cost": 20.00,
+      "quantity": 1,
+      "line_total": 20.00
+    },
+    {
+      "name": "飲料吧餐",
+      "unit_cost": 13.00,
+      "quantity": 1,
+      "line_total": 13.00
+    },
+    {
+      "name": "1.午 肉醬多利亞",
+      "unit_cost": 30.00,
+      "quantity": 1,
+      "line_total": 30.00
+    },
+    {
+      "name": "午 B餐",
+      "unit_cost": 15.00,
+      "quantity": 1,
+      "line_total": 15.00
+    },
+    {
+      "name": "不用加配",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "MT牛奶雪糕配布甸",
+      "unit_cost": 26.00,
+      "quantity": 1,
+      "line_total": 26.00
+    }
+  ],
+  "calculated_subtotal": 159.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 159.00,
+  "total_round": null,
+  "final_total": 159.00
+}

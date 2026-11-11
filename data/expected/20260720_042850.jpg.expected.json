@@ -1,0 +1,46 @@
+{
+  "photo": "20260720_042850.jpg",
+  "date": "2026-07-09",
+  "store_name": null,
+  "items": [
+    {
+      "name": "麥樂雞6件",
+      "unit_cost": null,
+      "quantity": 1,
+      "line_total": null
+    },
+    {
+      "name": "餐中薯條",
+      "unit_cost": null,
+      "quantity": 1,
+      "line_total": null
+    },
+    {
+      "name": "熱朱古力",
+      "unit_cost": null,
+      "quantity": 1,
+      "line_total": null
+    },
+    {
+      "name": "甜酸醬",
+      "unit_cost": null,
+      "quantity": 1,
+      "line_total": null
+    }
+  ],
+  "calculated_subtotal": null,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": 1,
+  "final_discount_amount": null,
+  
+  "calculated_total": null,
+  "total_round": null,
+  "final_total": null
+}

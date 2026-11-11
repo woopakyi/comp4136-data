@@ -1,0 +1,46 @@
+{
+  "photo": "20260720_043416.jpg",
+  "date": "2026-07-14",
+  "store_name": "大快活",
+  "items": [
+    {
+      "name": "咖喱雜扒飯",
+      "unit_cost": 53.00,
+      "quantity": 1,
+      "line_total": 53.00
+    },
+    {
+      "name": "紅米飯",
+      "unit_cost": 0.00,
+      "quantity": 1,
+      "line_total": 0.00
+    },
+    {
+      "name": "中茶",
+      "unit_cost": 3.00,
+      "quantity": 1,
+      "line_total": 3.00
+    },
+    {
+      "name": "芒果大福",
+      "unit_cost": 5.00,
+      "quantity": 1,
+      "line_total": 5.00
+    }
+  ],
+  "calculated_subtotal": 61.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+  
+  "calculated_total": 61.00,
+  "total_round": null,
+  "final_total": 61.00
+}

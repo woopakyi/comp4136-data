@@ -1,0 +1,40 @@
+{
+  "photo": "IMG_0046.PNG",
+  "date": "2026-07-02",
+  "store_name": "global.sandypos.com",
+  "items": [
+    {
+      "name": "炸雞粒湯烏冬",
+      "unit_cost": 49.00,
+      "quantity": 1,
+      "line_total": 49.00
+    },
+    {
+      "name": "鐵板牛肉飯 (牛鐵)",
+      "unit_cost": 60.00,
+      "quantity": 1,
+      "line_total": 60.00
+    },
+    {
+      "name": "三文魚炒飯 2件商品",
+      "unit_cost": 75.00,
+      "quantity": 1,
+      "line_total": 75.00
+    }
+  ],
+  "calculated_subtotal": 184.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 184.00,
+  "total_round": null,
+  "final_total": 184.00
+}

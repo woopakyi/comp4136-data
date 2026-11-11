@@ -1,0 +1,52 @@
+{
+  "photo": "20260719_234721.jpg",
+  "date": "2026-07-08",
+  "store_name": "元気寿司",
+  "items": [
+    {
+      "name": "湯鳥冬烏冬配壽司定食",
+      "unit_cost": 59.00,
+      "quantity": 1,
+      "line_total": 59.00
+    },
+    {
+      "name": "綠谷力量(煙熏芝士吉",
+      "unit_cost": 27.00,
+      "quantity": 1,
+      "line_total": 27.00
+    },
+    {
+      "name": "海鮮三點",
+      "unit_cost": 18.00,
+      "quantity": 1,
+      "line_total": 18.00
+    },
+    {
+      "name": "軟殼蟹手卷",
+      "unit_cost": 28.00,
+      "quantity": 2,
+      "line_total": 56.00
+    },
+    {
+      "name": "腐皮烏冬",
+      "unit_cost": 28.00,
+      "quantity": 1,
+      "line_total": 28.00
+    }
+  ],
+  "calculated_subtotal": 188.00,
+
+  "service_charge_rate": 0.10,
+  "calculated_service_charge_amount": 18.80,
+  "service_charge_round": null,
+  "final_service_charge_amount": 18.80,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+  
+  "calculated_total": 206.80,
+  "total_round": null,
+  "final_total": 206.80
+}

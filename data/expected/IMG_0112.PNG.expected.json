@@ -1,0 +1,28 @@
+{
+  "photo": "IMG_0112.PNG",
+  "date": "2026-07-25",
+  "store_name": "RUD",
+  "items": [
+    {
+      "name": "100g 豚腩肉",
+      "unit_cost": 50.00,
+      "quantity": 1,
+      "line_total": 50.00
+    }
+  ],
+  "calculated_subtotal": 50.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+  "calculated_total": 50.00,
+  "total_round": null,
+  "final_total": 50.00
+}

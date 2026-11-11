@@ -1,0 +1,34 @@
+{
+  "photo": "20260719_234134.jpg",
+  "date": "2026-06-08",
+  "store_name": "Apple Festival Walk",
+  "items": [
+    {
+      "name": "iPhone 17 256GB White",
+      "unit_cost": 6899.00,
+      "quantity": 1,
+      "line_total": 6899.00
+    },
+    {
+      "name": "MagSafe Charger (1m)",
+      "unit_cost": 299.00,
+      "quantity": 1,
+      "line_total": 299.00
+    }
+  ],
+  "calculated_subtotal": 7198.00,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+ 
+  "calculated_total": 7198.00,
+  "total_round": null,
+  "final_total": 7198.00
+}

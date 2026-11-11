@@ -1,0 +1,47 @@
+{
+  "photo": "IMG_0064.PNG",
+  "date": "2026-01-13",
+  "store_name": "TUEN MUN (TMT PLAZA) STORE",
+  "items": [
+    {
+      "name": "ORA2 ME OFFICE & TRAVEL HARD",
+      "unit_cost": 32.90,
+      "quantity": 1,
+      "line_total": 32.90
+    },
+    {
+      "name": "HAND ROLLED SUSHI TUNA",
+      "unit_cost": 22.00,
+      "quantity": 1,
+      "line_total": 22.00
+    },
+    {
+      "name": "GATSBY OIL CLEAR FILM 70`S",
+      "unit_cost": 15.90,
+      "quantity": 2,
+      "line_total": 31.80
+    },
+    {
+      "name": "Morinaga Choco Straw Latte Caramel Bag",
+      "unit_cost": 15.90,
+      "quantity": 1,
+      "line_total": 15.90
+    }
+  ],
+  "calculated_subtotal": 102.60,
+
+  "service_charge_rate": null,
+  "calculated_service_charge_amount": null,
+  "service_charge_round": null,
+  "final_service_charge_amount": null,
+
+  "discount_rate": null,
+  "calculated_discount_amount": null,
+  "discount_round": null,
+  "final_discount_amount": null,
+
+
+  "calculated_total": 102.60,
+  "total_round": null,
+  "final_total": 102.60
+}
